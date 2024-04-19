@@ -1,0 +1,6 @@
+*.txt
+.env
+data.json
+__pycache__
+big_data/
+small_data/
